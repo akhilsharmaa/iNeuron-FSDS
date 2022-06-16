@@ -4,7 +4,8 @@
 
 Full-stack data science course is a live mentor-led job guaranteed certification program with a **full-time one-year internship provided by [iNeuron](https://ineuron.ai/).** 
 
-In this course you will learn the entire stack required to work in the **data science, data analytics, and big data domain, including machine learning, deep learning, computer vision NLP and Big data including MLOps and cloud infrastructure,** along with real-time industry projects and product development with the iNeuron product development team, which will enable you to contribute on various levels.
+In this course you will learn the entire stack required to work in the **data science, data analytics, and big data domain
+, including machine learning, deep learning, computer vision NLP and Big data including MLOps and cloud infrastructure,** along with real-time industry projects and product development with the iNeuron product development team, which will enable you to contribute on various levels.
 
 ## Mentors 
 * Krish Naik 
@@ -31,4 +32,5 @@ In this course you will learn the entire stack required to work in the **data sc
 * Interview preparation
 * Resume building after every module
 
-Run ```git clone https://github.com/akhilsharmaa/Full-Stack-Data-Science-Bootcamp.git```
+### Clone this reasource & give a Star :)
+```git clone https://github.com/akhilsharmaa/Full-Stack-Data-Science-Bootcamp.git```
