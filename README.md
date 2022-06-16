@@ -12,7 +12,7 @@ In this course you will learn the entire stack required to work in the **data sc
 * Sudhanshu Kumar
 * Sunny Bhaveen Chandra
 
-### Syllabus
+### Course Includes - 
 *  Python
 * Stats
 * Machine learning
@@ -33,4 +33,5 @@ In this course you will learn the entire stack required to work in the **data sc
 * Resume building after every module
 
 ### Clone this reasource & give a Star :)
+Run in Terminal or cmd : 
 ```git clone https://github.com/akhilsharmaa/Full-Stack-Data-Science-Bootcamp.git```
