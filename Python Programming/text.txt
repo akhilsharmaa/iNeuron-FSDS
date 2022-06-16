@@ -1,3 +1,0 @@
-Hey I am Akhil.
-
-This is a file, This is contents under the test.txt file
