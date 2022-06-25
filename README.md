@@ -12,25 +12,6 @@ In this course you will learn the entire stack required to work in the **data sc
 * Sudhanshu Kumar
 * Sunny Bhaveen Chandra
 
-### Course Includes - 
-*  Python
-* Stats
-* Machine learning
-* Deep learning
-* Computer vision
-* Natural language processing
-* Data analytics
-* Big data
-* Ml ops
-* Cloud
-* Data structure and algorithm
-* Architecture
-* Domain wise project
-* Databases
-* Negotiations skills
-* Mock interview
-* Interview preparation
-* Resume building after every module
 
 ### Clone this reasource & give a Star :)
 Run in Terminal or cmd : 
