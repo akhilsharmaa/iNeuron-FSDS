@@ -16,8 +16,3 @@ In this course you will learn the entire stack required to work in the **data sc
 * Sudhanshu Kumar
 * Sunny Bhaveen Chandra
 
-
-### Clone this reasource & give a Star :p 
-
-Run in Terminal or cmd : 
-```git clone https://github.com/akhilsharmaa/Full-Stack-Data-Science-Bootcamp.git```
