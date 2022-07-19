@@ -13,6 +13,8 @@ courser.execute("select * from akhilesh.ineoron");
 # print(courser.fetchall())
 l = [];
 
+create
+
 for i in courser.fetchall() : 
     l.append(i);
 
